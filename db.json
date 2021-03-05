@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "id": "602887436300714013",
+      "owo": false,
+      "fine": 1050
+    },
+    {
+      "id": "386553948443639818",
+      "owo": true,
+      "fine": 700
+    },
+    {
+      "id": "530420116815478794",
+      "owo": false,
+      "fine": 1050
+    },
+    {
+      "id": "602887436300714013",
+      "name": "<@!602887436300714013>",
+      "rank": "tags"
+    },
+    {
+      "id": "386553948443639818",
+      "name": "<@386553948443639818>",
+      "rank": "tags"
+    },
+    {
+      "id": "536241336664457216",
+      "name": "<@!536241336664457216>",
+      "rank": "tags",
+      "fine": null
+    }
+  ],
+  "commands": [
+    {
+      "id": 1,
+      "name": "otherabuse",
+      "tags": "https://cdn.discordapp.com/attachments/815972789197602846/816757764570611772/unknown.png"
+    },
+    {
+      "id": 1,
+      "name": "l",
+      "tags": "https://c.tenor.com/f0Eo8yp9uIkAAAAM/seth-meyers-here-you-go.gif"
+    },
+    {
+      "id": 1,
+      "name": "yikes",
+      "tags": "https://tenor.com/view/yikes-big-yikes-oops-award-awkward-gif-14697236"
+    },
+    {
+      "id": 1,
+      "name": "shoo",
+      "tags": "https://media.giphy.com/media/gvhRMmmmEfunsrKibH/giphy.gif"
+    },
+    {
+      "id": 1,
+      "name": "wizard",
+      "tags": "https://media.discordapp.net/attachments/815972789197602846/817046960485433355/image0.png"
+    },
+    {
+      "id": 1,
+      "name": "raccoon",
+      "tags": "https://cdn.discordapp.com/attachments/816413739267129425/817074484653064202/image0.png"
+    },
+    {
+      "id": 1,
+      "name": "aaaa",
+      "tags": "https://media.discordapp.net/attachments/742715660479627346/773237045740044298/image0.gif"
+    },
+    {
+      "id": 1,
+      "name": "mega",
+      "tags": "Os"
+    },
+    {
+      "id": 1,
+      "name": "megaos",
+      "tags": "https://media.discordapp.net/attachments/816413739267129425/817079317703557200/unknown.png"
+    },
+    {
+      "id": 1,
+      "name": "cringe",
+      "tags": "https://cdn.discordapp.com/attachments/815972740518772786/817100736504659978/image0.jpg"
+    },
+    {
+      "id": 1,
+      "name": "badwords",
+      "tags": "https://cdn.discordapp.com/attachments/815967415200514089/816422413964410950/image0.png"
+    }
+  ],
+  "ign": [
+    {
+      "id": "602887436300714013",
+      "ign": "DreamStanHunter"
+    },
+    {
+      "id": "550469473744977930",
+      "ign": "sneakyatom"
+    },
+    {
+      "id": "332994937450921986",
+      "ign": "Dr_Creepster"
+    },
+    {
+      "id": "536241336664457216",
+      "ign": "IUseLunarClient"
+    },
+    {
+      "id": "297570323048431629",
+      "ign": "LegitMCName"
+    },
+    {
+      "id": "150368895943835648",
+      "ign": "Galactic_Warri0r"
+    }
+  ]
+}
